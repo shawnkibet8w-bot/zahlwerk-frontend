@@ -1,1 +1,0 @@
-# zahlwerk-frontend
