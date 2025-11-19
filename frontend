@@ -1,0 +1,7 @@
+cd /path/to/zahlwerk-frontend
+git init
+git add .
+git commit -m "Initial commit — zahlwerk frontend"
+git branch -M main
+git remote add origin https://github.com/shawnkibet8w-bot/zahlwerk-frontend.git
+git push -u origin main
